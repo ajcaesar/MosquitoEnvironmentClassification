@@ -1,0 +1,3 @@
+0 Rural
+1 Suburban
+2 Urban
